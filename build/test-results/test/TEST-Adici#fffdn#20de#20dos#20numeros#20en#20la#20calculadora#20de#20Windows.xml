@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Adici�n de dos numeros en la calculadora de Windows" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-11-01T20:32:20" hostname="CPX-IIE1IB0DOGJ" time="8.96">
+  <properties/>
+  <testcase name="PRUEBA A REALIZAR - Suma de dos numeros" classname="Adici�n de dos numeros en la calculadora de Windows" time="8.96"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Nov 01, 2018 3:32:22 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: OSS
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: PRUEBA A REALIZAR - Suma de dos numeros
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
